@@ -13,7 +13,7 @@
 
 ---
 
-**Mid term** ***Phần mềm Quản lý sự kiện và Danh sách khách mời trên iPhone hoặc iPad***
+## **-Mid term-** ***Phần mềm Quản lý sự kiện và Danh sách khách mời trên iPhone hoặc iPad***
 
 ### Các chức năng đã làm được: 100%
 
@@ -42,7 +42,7 @@ Các chức năng mà thầy đã yêu cầu:
 
 ### Các chức năng chưa làm được: 0%
 
-Không có.
+	Không có.
 
 
 ### Các con đường bất hạnh (fail paths/test cases/exceptions) đã xử lý
