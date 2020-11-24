@@ -4,15 +4,16 @@
 
  - MSSV: 18120254
 
-# Điểm đề nghị cho bài tập: 10
+# Thông tin bài làm
 
-# Link Google Drive: https://drive.google.com/file/d/14wvNgmLvfbclriKgp23BxWSo3kWHKFw1/view?usp=sharing
+- Điểm đề nghị cho bài tập: 10
+- Link Google Drive: https://drive.google.com/file/d/14wvNgmLvfbclriKgp23BxWSo3kWHKFw1/view?usp=sharing
 
-* Ghi chú: em có xoá thư mục Pods vì nó nặng quá, nên nếu thầy không chạy được project thì vô link Drive để down về full source code nha (~200MB) *
+> Ghi chú: em có xoá thư mục Pods vì nó nặng quá, nên nếu thầy không chạy được project thì vô link Drive để down về full source code nha (~200MB) 
 
 ---
 
-** Mid term ** *** Phần mềm Quản lý sự kiện và Danh sách khách mời trên iPhone hoặc iPad ***
+**Mid term** ***Phần mềm Quản lý sự kiện và Danh sách khách mời trên iPhone hoặc iPad***
 
 ### Các chức năng đã làm được: 100%
 
